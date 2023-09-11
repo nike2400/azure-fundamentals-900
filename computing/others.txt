@@ -1,0 +1,17 @@
+□ Azure Container Incetances ACI
+サーバーの管理なしでコンテナ環境を実行できるサービス
+
+□ Azure Kubernetes Service AKS
+Azure上でKubernetes環境を実行できるマネージドサービス
+
+□ Azure Virtual Desktop AVD
+Azure上で仮想デスクトップ環境利用できるサービス
+VDI環境を構築るすためにはインフラ環境の準備が必要だが、AVDはAzureがインフラ環境甘露を行ってくれる
+
+□ Azure Batch
+大規模なバッチジョブを管理、実行してくるマネージドサービス。
+コンピューティングリソースは何千台もの仮想マシンに拡張できる
+
+□ Azure Logic Apps
+ジョブやワークフローを作成できるサーバーレスの実行環境
+Logic Appのデザイナー機能を使えばコードを一行も書くことなく、グラフィカルにワークフローの実行環境を作成できる
